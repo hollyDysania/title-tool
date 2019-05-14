@@ -4,6 +4,6 @@
 
 展示
 
-![](https://raw.githubusercontent.com/hollyDysania/title-tool/static/145022aec1pz1hx8j1pzoj.gif)
+![](https://raw.githubusercontent.com/hollyDysania/title-tool/master/static/145022aec1pz1hx8j1pzoj.gif)
 
-![](https://raw.githubusercontent.com/hollyDysania/title-tool/static/145128yq713qq37e65x6mr.gif)
+![](https://raw.githubusercontent.com/hollyDysania/title-tool/master/static/145128yq713qq37e65x6mr.gif)
